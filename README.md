@@ -1,0 +1,1 @@
+A simple, real-time chat application built using Socket.IO for real-time communication, React for the frontend, and Node.js with Express for the backend. This app allows users to communicate with each other in real-time, supporting features like direct messaging and online presence tracking.
